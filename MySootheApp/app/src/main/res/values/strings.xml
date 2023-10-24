@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Soothe App</string>
+    <string name="search_placeholder">Search</string>
+    <string name="ab1_inversion">Inversion</string>
+    <string name="t_nature_meditation">Nature Meditation</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections\n</string>
+    <string name="bottom_navigation_home">Bottom Navigation Home</string>
+    <string name="bottom_navigation_profile">Bottom Navigation Profile</string>
+</resources>
